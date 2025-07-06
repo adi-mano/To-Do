@@ -1,2 +1,2 @@
 To-Do project:
-https://github.com/adi-mano/To-Do.git
+http://adi-mano.github.io/To-Do/
